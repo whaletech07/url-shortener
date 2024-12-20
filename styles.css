@@ -53,6 +53,10 @@ footer {
     border-bottom-right-radius: 15px;
 }
 
+footer .fab, footer .fas {
+    color: #ffffff; /* Set the desired color */
+}
+
 @keyframes slideIn {
     to {
         transform: translateY(0);
